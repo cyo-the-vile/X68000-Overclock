@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XVI Overclock-rescue")(type "KiCad")(uri "${KIPRJMOD}/XVI Overclock-rescue.kicad_sym")(options "")(descr ""))
+)
